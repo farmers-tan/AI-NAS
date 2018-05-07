@@ -1,4 +1,4 @@
-# How To Train an Object Detection Classifier for Multiple Objects Using TensorFlow (GPU) on Windows 10
+# How to make NAS into Deep Learning NVR 
 
 ## Brief Summary
 *Last updated: 4/7/2018 with TensorFlow v1.7*
