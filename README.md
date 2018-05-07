@@ -1,17 +1,12 @@
 # How to turn NAS into Deep Learning NVR 
 
 ## Brief Summary
-*Last updated: 4/7/2018 with TensorFlow v1.7*
-
-*Changes: Added Cython to list of packages to install in Section 2d. Removed instructions to add PYTHONPATH to PATH in Section 2e, because it's not needed.*
 
 This repository is a tutorial for how to use TensorFlow's Object Detection API to train an object detection classifier for multiple objects on Windows 10, 8, or 7. (It will also work on Linux-based OSes with some minor changes.) It was originally written using TensorFlow version 1.5, but will also work for newer versions of TensorFlow.
 
 I also made a YouTube video that walks through this tutorial. Any discrepancies between the video and this written tutorial are due to updates required for using newer versions of TensorFlow. 
 
 **If there are differences between this written tutorial and the video, follow the written tutorial!**
-
-[![Link to my YouTube video!](https://raw.githubusercontent.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/master/doc/YouTube%20video.jpg)](https://www.youtube.com/watch?v=Rgpfk6eYxJA)
 
 This readme describes every step required to get going with your own object detection classifier: 
 1. [Installing TensorFlow-GPU](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10#1-install-tensorflow-gpu-15-skip-this-step-if-tensorflow-gpu-15-is-already-installed)
